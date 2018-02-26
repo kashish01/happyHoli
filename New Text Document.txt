@@ -1,22 +1,71 @@
 
 <html>
 <head>
-    
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>  
+<meta name="google" content="notranslate" />
+ <meta property="og:type" content="Happy Holi" />
+    <meta property="og:title" content="Wishing You Happy Holi" />
+    <meta property="og:url" content="http://jaddu-dekho.com/">
+    <meta property="og:description" content="Make Your Holi wish" >
+    <meta property="og:site_name" content="Wishing You Happy Holi" />
+    <meta property="og:image" content="holi1.png"> 
 <title>Create Your Holi wish</title>
 <link href="normalize.min.css" rel="stylesheet">
 <link href="layout26.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 <script language="javascript" src="jquery.min.js"></script>
-<script src="fire.js"></script>
 <script language="javascript" src="count1.js"></script>
-<style type="text/css">.layer:after{content:'[Your Name]';}</style>
+<style type="text/css">.layer:after{content:'';}</style>
+    <style>
+.footerbtn {
+ 
+            display: block;
+            line-height: 15px;
+            position: fixed;
+            left:0px;
+            bottom:8px;
+            height:40px;
+border-radius: 15px;
+  box-sizing: border-box;
+  padding: 5px;
+  background:#34af23;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  width:95%;
+ margin-left:10px;
+            margin-right:30px;
+            box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .3);
+            animation: footer infinite linear 1s;
+            -webkit-transform: translate3d(30%,0,0);
+            transform: translate3d(30%,0,0);
+            position: fixed;
+           
+}
 
-</head>
+.footerbtn :active {
+            box-shadow: none
+        }
 
-<body>
-   
-<style>
+        @-webkit-keyframes footer {
+            from {
+                -webkit-transform: rotateZ(0)
+            }
+            25% {
+                -webkit-transform: rotateZ(1.5deg)
+            }
+            50% {
+                -webkit-transform: rotateZ(1.5deg)
+            }
+            75% {
+                -webkit-transform: rotateZ(-1.5deg)
+            }
+            to {
+                -webkit-transform: rotateZ(0)
+            }}
+          
 .hny-txt {animation:glowtwo 3s ease-in-out infinite; margin:0;}
       @keyframes glowtwo{0%,100%{text-shadow:0 0 30px #F7FE18;color: white;}25%{text-shadow:0 0 30px #F7FE18;color: black;}50%{text-shadow:0 0 30px white;color: white;}75%{text-shadow:0 0 30px  #F7FE18;white: white;}}
 .m1{position:fixed;left:1%; width:auto;height:100%;top:1%;color:#000;}
@@ -389,8 +438,7 @@
     -webkit-transform: rotate(5deg);
     -ms-transform: rotate(5deg);
     transform: rotate(5deg);
-  }
-}
+  }}
 @import url(https://fonts.googleapis.com/css?family=Concert+One);
 
 h1 {
@@ -449,86 +497,104 @@ h1:nth-child(7){ transform:translateZ(30px); }
 h1:nth-child(8){ transform:translateZ(35px); }
 h1:nth-child(9){ transform:translateZ(40px); }
 h1:nth-child(10){ transform:translateZ(45px); }
-    </style>
+</style>
+</head>
+<body>
 <div class="main-container">
 <div class="container">
-
-<figure>
-<h1 class="naming"></h1>
-<h1 class="naming"></h1>
-<h1 class="naming"></h1>
-<h1 class="naming"></h1>
-<h1 class="naming"></h1>
-</figure>
-  <br> <br> <br><br><br><br><br>
-<p class="hny-txt">की तरफ से</p>
-
-     <img src="holitext.png" width="80%" height="30%" style="animation: tada 4s infinite;" />
-   <img src="tenor1.gif" height="200px" width="300px"/>
-   
-   <img src="cracker.gif" height="200px" width="300px"/>
-
-  
-
-
-    <p class="lines"><font color="yellow">खा के गुजिया,<br>
-पी के भंग,<br>
-लगा के थोडा थोडा सा रंग,<br>
-बजा के ढोलक और मृदंग,<br>
-खेलें होली हम तेरे संग.<br>
-होली मुबारक!<br>
-
- </p></font>
-<span id="show-name" style="color: white;"></span>
-
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mera Style Top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:50px"
+     data-ad-client="ca-pub-1251254486621556"
+     data-ad-slot="1081770434"></ins>
 <script>
-function getParameterByName(name, url) {
-    if (!url) url = window.location.href;
-    name = name.replace(/[\[\]]/g, "\\$&");
-    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-        results = regex.exec(url);
-    if (!results) return null;
-    if (!results[2]) return '';
-    return decodeURIComponent(results[2].replace(/\+/g, " "));
-}
-
-var n = getParameterByName('n');
-
-
-
-
-var x = document.getElementsByClassName('naming');
-x[0].innerHTML=n;
-x[1].innerHTML=n;
-x[2].innerHTML=n;
-x[3].innerHTML=n;
-x[4].innerHTML=n;
-
-var y=document.getElementById('show-name').innerHTML=n;
-
-
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</center>
 
+	<figure>
+	<center><h1 class="naming"></h1>
+<h1 class="naming"></h1>
+<h1 class="naming"></h1>
+<h1 class="naming"></h1>
+<h1 class="naming"></h1> </center>
 
+</figure>
+<br><br><br><br><br><br><br>
+<p class="hny-txt">?? ??? ??</p>
+<p id="demoo" style="font-size: 18px; font-weight: italic;"></p>
+<p class="hny-txt">????</p>
+     <img src="holitext.png" width="65%" height="20%" style="animation: tada 4s infinite;" /><br>
+  <img class="center swing2" src="holi55.gif" height="110px" width="150px"/>
+   <img class="center swing3" src="holi2.gif" height="130px" width="150px"/>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+    <p class="lines">
+       ????? ?????? ??? ??? ?? ????,<br>
+???? ?? ?? ?? ?? ?? ????,<br>
+??? ???????? ?? ?? ??? ??? ??? ??,<br>
+???? ???? ??, ??? ?? ??? ?? ?? ?????? ????? <br>
+</p>??<span id="show-name" style="color: white;"></span>??
+    <center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mera Style 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1251254486621556"
+     data-ad-slot="3133218707"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+<br/><br/><br/><br/><br/>
 </div>
-</div>
+
 </div>
  			
 	 <div class="form-container">    
-		<form method="get" action="ready.php">
-			<input name="n" type="text" placeholder="यहाँ अपना नाम लिखे 👈">
-			<input type="submit" value="👉 देखे 👁👁">
-		</form>
+<center>
+    <a class="footerbtn" href="whatsapp://send?text=** ne sirf apke liye kuch khash bheja he.. %0A blue line ko touch kro or dekho %0A??jaddu-dekho.com/?n="><img width="25px" height="25px" src="wp.png"/><b style="font-size: 18px;">???? ???? ?? ??? ???? ????? ??? </b> <img width="25px" height="25px" src="wp.png"/></a></center>
+</center>
 		</div>
-		
+		<script> 
+// Set the date we're counting down to
+var countDownDate = new Date("Mar 01, 2018 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+    
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
+    
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+    // Output the result in an element with id="demo"
+    document.getElementById("demoo").innerHTML = days + "??? " + hours + "???? "
+    + minutes + "????" + seconds + "?????";
+    
+    // If the count down is over, write some text 
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demoo").innerHTML = "";
+    }
+}, 1000);
+</script>
 </body>
 </html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85162156-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-85162156-8');
+</script>
